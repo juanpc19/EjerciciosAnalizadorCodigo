@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Ejercicio2 {
 	/**
-	 * comentario para la CLAVE
+	 * metodo main para args
 	 */
 	
 	public static void main(final String[] args) {
